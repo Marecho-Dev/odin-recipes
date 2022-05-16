@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is creating a simple recipe website. This will demonstrate an understanding of the HTML BOILERPLATE. Will also show an understanding of Unordered/ordered lists and the basics of git!
